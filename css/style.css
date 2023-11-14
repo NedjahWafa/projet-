@@ -11,7 +11,7 @@ body {
     color: #ffffff;
     font-family: 'Courier New', Courier, monospace;
     height: 50px;
-    weight: 100;
+    weight: 100%;
     background-color: green ;
     display: flex;
     align-items: center;
