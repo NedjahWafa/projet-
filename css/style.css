@@ -8,11 +8,11 @@ body {
 }
 
 .header {
-    color: #fff;
+    color: #ffffff;
     font-family: 'Courier New', Courier, monospace;
     height: 50px;
     width: 100%;
-    background-color: green;
+    background-color: red;
     display: flex;
     align-items: center;
     justify-content: space-between;
